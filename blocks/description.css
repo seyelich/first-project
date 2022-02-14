@@ -1,0 +1,40 @@
+.description {
+  display: flex;
+  justify-content: center;
+}
+
+.two-columns {
+  width: 80%;
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+}
+
+.two-columns__brief {
+  width: 175px;
+  margin: 0;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  color: #2f80ed;
+}
+
+.two-columns__main-text {
+  width: 80%;
+  min-width: 784px;
+  display: flex;
+  flex-flow: column;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  gap: 30px;
+}
+
+.two-columns__span-accent {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+
+
