@@ -1,0 +1,10 @@
+.digits {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  margin: 100px 0;
+}
+
+
+
+
